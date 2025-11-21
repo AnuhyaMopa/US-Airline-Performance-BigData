@@ -18,6 +18,8 @@ Scalable pipeline using PySpark
 U.S. DOT On-Time Performance Dataset
 https://www.transtats.bts.gov/
 
+https://www.transtats.bts.gov/DL_SelectFields.aspx?gnoyr_VQ=FGJ&QO_fu146_anzr=b0-gvzr
+
 Requirements:
 
 pandas
