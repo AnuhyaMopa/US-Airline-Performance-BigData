@@ -18,14 +18,20 @@ Scalable pipeline using PySpark
 U.S. DOT On-Time Performance Dataset
 https://www.transtats.bts.gov/
 
-requirements.txt
+Requirements:
 
 pandas
+
 numpy
+
 matplotlib
+
 plotly
+
 dash
+
 pyspark
+
 jupyter
 
 
